@@ -3,7 +3,7 @@
 
 
 ##一、简介：
-* [topicList.md][schedule-link]
+* [topicList.md][topicList-link]
 预设了一些topic，供大家认领，促进大家学习，并且把成果share出来。
 
 * [contributionRecord.md][contributionRecord-link]
