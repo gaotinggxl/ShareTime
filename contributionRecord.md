@@ -10,7 +10,8 @@
 |简单特效和web游戏的实现和方法|dezhi对项目中常用的动画特效进行了讲解，并且给我们带来了自己做的web版贪吃蛇的游戏，游戏很赞.|dezhi|[简单特效和web游戏的实现和方法](http://bizfe.meilishuo.com/ppt/zdz-1/index.html)|2014-09-05|-|
 |前端自动化测试分享|huyang同学今天给我们带来了js单元测试和js自动化测试方面的新技术，让我们长见识了，其中涉及到的casperjs引起了大家一场小脑暴。|huyang|[ 前端自动化测试分享](http://bizfe.meilishuo.com/ppt/hy_jstest.pdf)|2014-09-12|-|
 |高强简记|gaoqiang作为新同学给我们分享了他个人经历和内蒙风情。|gaoqiang|[高强简记](https://github.com/bizfe/ShareTime/blob/master/ppt/20150522-%E9%AB%98%E5%BC%BA%E7%AE%80%E8%AE%B0-%E9%AB%98%E5%BC%BA.zip)|2014-09-12|-|
-|利昭介绍|lizhao作为新同学给我们分享了其过去的经历感悟|lizhao|[ 前端自动化测试分享](https://github.com/bizfe/ShareTime/blob/master/ppt/20150522-%E6%96%B0%E4%BA%BA%E4%BB%8B%E7%BB%8D-%E5%88%A9%E6%98%AD.zip)|2014-09-12|-|
+|利昭介绍|lizhao作为新同学给我们分享了其过去的经历感悟|lizhao|[利昭新人分享](https://github.com/bizfe/ShareTime/blob/master/ppt/20150522-%E6%96%B0%E4%BA%BA%E4%BB%8B%E7%BB%8D-%E5%88%A9%E6%98%AD.zip)|2014-09-12|-|
+|文琪新人介绍|文琪分享了其在学校和之前公司的经历|acs1899|[文琪新人介绍](https://github.com/bizfe/ShareTime/blob/master/ppt/20150626-%E6%96%B0%E4%BA%BA%E4%BB%8B%E7%BB%8D-%E6%96%87%E7%A5%BA.zip)|2015-06-26|-|
 
 
 ##angularjs探秘
