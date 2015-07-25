@@ -4,7 +4,7 @@
     日期： 2015-06-26,
     简介：分享其从入行到现在的工作经历。
     
-####第52期：[设计稿从0到1的过程](https://github.com/bizfe/ShareTime/blob/master/ppt/20150703-%E4%B8%80%E5%A5%97%E8%AE%BE%E8%AE%A1%E7%A8%BF%E7%9A%84%E8%AF%9E%E7%94%9F%E8%BF%87%E7%A8%8B-%E7%BD%97%E9%B9%8F.key)
+####第52期：[一套设计稿的诞生过程](https://github.com/bizfe/ShareTime/blob/master/ppt/20150703-%E4%B8%80%E5%A5%97%E8%AE%BE%E8%AE%A1%E7%A8%BF%E7%9A%84%E8%AF%9E%E7%94%9F%E8%BF%87%E7%A8%8B-%E7%BD%97%E9%B9%8F.key)
     分享人: 罗鹏
     topic: 设计中设计
     日期： 2015-07-10
