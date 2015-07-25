@@ -12,6 +12,9 @@
 |高强简记|gaoqiang作为新同学给我们分享了他个人经历和内蒙风情。|gaoqiang|[高强简记](https://github.com/bizfe/ShareTime/blob/master/ppt/20150522-%E9%AB%98%E5%BC%BA%E7%AE%80%E8%AE%B0-%E9%AB%98%E5%BC%BA.zip)|2014-09-12|-|
 |利昭介绍|lizhao作为新同学给我们分享了其过去的经历感悟|lizhao|[利昭新人分享](https://github.com/bizfe/ShareTime/blob/master/ppt/20150522-%E6%96%B0%E4%BA%BA%E4%BB%8B%E7%BB%8D-%E5%88%A9%E6%98%AD.zip)|2014-09-12|-|
 |文琪新人介绍|文琪分享了其在学校和之前公司的经历|acs1899|[文琪新人介绍](https://github.com/bizfe/ShareTime/blob/master/ppt/20150626-%E6%96%B0%E4%BA%BA%E4%BB%8B%E7%BB%8D-%E6%96%87%E7%A5%BA.zip)|2015-06-26|-|
+|鹏飞新人介绍|鹏飞介绍了其学校的美景，个人对摄影和美食的喜爱。以及展示了其亮瞎了众人的ppt设计技能|Thunf|[鹏飞新人介绍]()|2015-07-17|-|
+|隐玉新人介绍|隐玉妹子给大家带来了其在青岛就读时的记忆，清新淡雅如其人。并且开创了新人介绍男女朋友的先河^_^||[隐玉新人介绍](http://bizfe.meilishuo.com/agg?name=slides&doc=slides/freshman-yinyu)|2015-07-25|-|
+
 
 
 ##angularjs探秘
@@ -60,3 +63,4 @@
 |IM中的前端(页面端及服务端)|ixuhui带来花花网页版的原理和实践, 其中涉及的技术很值得研究学习|ixuhui|[IM中的前端(页面端及服务端)](http://bizfe.meilishuo.com/agg?name=slides&doc=slides/im-of-front-end)|2015-01-02|-|
 |美丽说运维那些事|xuyang分享了其作为运维在公司的工作内容和公司的服务器环境及架构，对于了解整个公司的环境非常有帮助|徐阳|[美丽说运维那些事]()|2015-05-29|-|
 |渲染速度及内存管理|张楠分享了其对动画优化和js性能优化的方法和经验，对于追求性能的同学非常值得一看|张楠|[渲染速度及内存管理](https://github.com/bizfe/ShareTime/blob/master/ppt/20150605-%E6%B8%B2%E6%9F%93%E9%80%9F%E5%BA%A6%E5%8F%8A%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86-%E5%BC%A0%E6%A5%A0.zip)|2015-06-05|-|
+|移动端设计经验|赛南分享了其在移动端的设计经验，以及对设计师和前端怎样愉快的合作进行了思考。|赛南|[移动端设计经验](https://github.com/bizfe/ShareTime/blob/master/ppt/20150710-%E7%A7%BB%E5%8A%A8%E7%AB%AF%E7%9A%84%E8%AE%BE%E8%AE%A1%E7%BB%8F%E9%AA%8C-%E8%B5%9B%E5%8D%97.key)|2015-07-10|-|
