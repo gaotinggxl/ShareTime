@@ -49,7 +49,8 @@
 |Topic|Desc|Sharers|PPT|Date|Remark|
 |:--|:--|:--:|:--:|:--:|:--:|
 |PhotoShop基础操作及切图技巧|wilee的这次分享从基本的图形图像知识讲起，由浅入深讲解了ps的各种工具，结合使用场景和案例分析。|wilee|[PhotoShop基础操作及切图技巧](http://bizfe.meilishuo.com/slides/detail?_id=541bf784157c9758a2571dcb)|2014-09-19|-|
-
+|一套设计稿的诞生过程|罗鹏作为bizfe的首席设计师给我们讲解了其在设计过程中的思考，并结合商家后台页面的设计进行了分析。从细微之处入手展开到设计理论的实践和讨论|罗鹏|[一套设计稿的诞生过程](https://github.com/bizfe/ShareTime/blob/master/ppt/20150703-%E4%B8%80%E5%A5%97%E8%AE%BE%E8%AE%A1%E7%A8%BF%E7%9A%84%E8%AF%9E%E7%94%9F%E8%BF%87%E7%A8%8B-%E7%BD%97%E9%B9%8F.key)|2015-07-03|-|
+|移动端设计经验|赛南分享了其在移动端的设计经验，以及对设计师和前端怎样愉快的合作进行了思考。|赛南|[移动端设计经验](https://github.com/bizfe/ShareTime/blob/master/ppt/20150710-%E7%A7%BB%E5%8A%A8%E7%AB%AF%E7%9A%84%E8%AE%BE%E8%AE%A1%E7%BB%8F%E9%AA%8C-%E8%B5%9B%E5%8D%97.key)|2015-07-10|-|
 
 ##如何愉快的工作
 |Topic|Desc|Sharers|PPT|Date|Remark|
