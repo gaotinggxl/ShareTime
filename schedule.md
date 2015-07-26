@@ -28,7 +28,7 @@
     日期： 2015-07-21
     简介：简述学习前端开发的经历与个人经历。
     
-####第56期：[jz的python技术分享](https://github.com/bizfe/ShareTime/blob/master/ppt/20150724-python%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB-jz.key)
+####第56期：[jz的python技术分享](https://github.com/bizfe/ShareTime/blob/master/ppt/20150724-python%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB-jz.tar.gz)
     分享人：jz
     topic：FE怎么脱离RD开发
     日期：2015-7-24
