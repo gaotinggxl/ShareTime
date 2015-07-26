@@ -45,10 +45,10 @@
 |node日志监控系统-eagle|hirra讲解了eagle的前世今生|hirra|[node日志监控系统-eagle](https://github.com/bizfe/ShareTime/blob/master/ppt/w3ctech%E5%88%86%E4%BA%AB-%E9%9F%A9%E8%B7%AF.pdf)|2015-03-28|-|
 |基于Nodejs的静态文件服务器|kugua讲解了jserver的原理和思想|kugua|[基于Nodejs的静态文件服务器](https://github.com/bizfe/ShareTime/blob/master/ppt/%E5%9F%BA%E4%BA%8ENodejs%E7%9A%84%E9%9D%99%E6%80%81%E6%96%87%E4%BB%B6%E6%9C%8D%E5%8A%A1%E5%99%A8.pptx)|2015-04-19|-|
 
-##后端开发技术
+##FE怎么脱离RD开发
 |Topic|Desc|Sharers|PPT|Date|Remark|
 |:--|:--|:--:|:--:|:--:|:--:|
-|FE怎么脱离RD开发|jz介绍python语言的一些语法糖，并且给出一个简单的web开发代码结构|jz|[python开发技术分享](https://github.com/bizfe/ShareTime/blob/master/ppt/20150724-python%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB-jz.key)|2015-7-24|-|
+|python技术分享|jz介绍python语言的一些语法糖，并且给出一个简单的web开发代码结构|jz|[python开发技术分享](https://github.com/bizfe/ShareTime/blob/master/ppt/20150724-python%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB-jz.key)|2015-7-24|-|
 
 ##设计中的设计
 |Topic|Desc|Sharers|PPT|Date|Remark|
