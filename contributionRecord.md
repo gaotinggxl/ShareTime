@@ -48,7 +48,7 @@
 ##FE怎么脱离RD开发
 |Topic|Desc|Sharers|PPT|Date|Remark|
 |:--|:--|:--:|:--:|:--:|:--:|
-|python技术分享|jz介绍python语言的一些语法糖，并且给出一个简单的web开发代码结构|jz|[python开发技术分享](https://github.com/bizfe/ShareTime/blob/master/ppt/20150724-python%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB-jz.key)|2015-7-24|-|
+|python技术分享|jz介绍python语言的一些语法糖，并且给出一个简单的web开发代码结构|jz|[python开发技术分享](https://github.com/bizfe/ShareTime/blob/master/ppt/20150724-python%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB-jz.tar.gz)|2015-7-24|-|
 
 ##设计中的设计
 |Topic|Desc|Sharers|PPT|Date|Remark|
